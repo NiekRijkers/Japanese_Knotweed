@@ -10,5 +10,5 @@ The config files included in this repository were used to train, validate and te
 They were also used for the experiments conducted in the research. Such as resizing the images, altering the pre-training datasets, and hyperparameter testing.
 
 Two of the three open datasets used for pre-training are included in this repository. The ground-level dataset from November and the ground-level dataset from May.
-The grass weed dataset was too large to upload to GitHub.
+The grass weed dataset was too large to upload to GitHub. Hence, it is only included in the .zip file submitted to Canvas.
 The dataset containing the aerial images of the Japanese Knotweed is not included, due to an NDA disclosed with Datacation.
